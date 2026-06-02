@@ -15,6 +15,10 @@ Tab A  ──telepath──  Tab B
 ## Install
 
 ```bash
+npm install @ekaone/telepath
+
+// or with pnpm
+
 pnpm add @ekaone/telepath
 ```
 
