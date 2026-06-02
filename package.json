@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Message passing library for Node.js and the browser.",
   "keywords": [
-   "telepath",
+    "telepath",
     "broadcast-channel",
     "message-passing",
     "ipc"
