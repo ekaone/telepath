@@ -196,9 +196,9 @@ MIT © [Eka Prasetia](./LICENSE)
 
 ## Links
 
-- [npm Package](https://www.npmjs.com/package/@ekaone/mask-email)
-- [GitHub Repository](https://github.com/ekaone/mask-email)
-- [Issue Tracker](https://github.com/ekaone/mask-email/issues)
+- [npm Package](https://www.npmjs.com/package/@ekaone/telepath)
+- [GitHub Repository](https://github.com/ekaone/telepath)
+- [Issue Tracker](https://github.com/ekaone/telepath/issues)
 
 ---
 
